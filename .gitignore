@@ -1,0 +1,7 @@
+/assets/
+yii/
+.idea/
+protected/runtime/application.log
+protected/config/db.php
+.htaccess
+uploads

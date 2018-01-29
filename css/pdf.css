@@ -1,0 +1,153 @@
+body
+{
+    background: white !important;
+}
+body.menu-pin .page-container .page-content-wrapper .content
+{
+    padding: 10px 30px !important;
+}
+.report-header
+{
+    font-size: 22px !important;
+    color: #91c84d;
+    font-family: 'Montserrat';
+}
+.theme-color
+{
+    color: #91c84d !important;
+}
+.header-label
+{
+    font-size: 13px !important;
+}
+.header-label-value
+{
+    font-size: 13px !important;
+}
+.separator-report
+{
+    background: #91c84d !important;
+    height: 2px !important;
+    margin: 30px 0 !important;
+}
+.information-row .title
+{
+    margin: 10px 0 !important;
+    font-size: 14px;
+}
+.information-row .box
+{
+    border: 1px solid #91c84d !important;
+    background: #eee;
+    color: #000000;
+}
+.information-row .box .box-row
+{
+    padding: 6px !important;
+}
+.right-border-attribute
+{
+    border-right: 1px solid dimgray;
+}
+.inspection-item
+{
+    padding: 5px 0 !important;
+}
+.inspection-item .item-bool
+{
+    font-size: 14px;
+    border-radius: 50%;
+    padding: 4px;
+    color: white;
+}
+.inspection-item .done
+{
+    background: #91c84d !important;
+}
+.inspection-item .skipped
+{
+    background: rgba(228, 8, 8, 0.82);
+}
+.checklist-row
+{
+    padding: 30px 0;
+}
+.section-head
+{
+    border-bottom: 1px solid #91c84d !important;
+    padding-top: 20px;
+}
+.section-head .left
+{
+    float: left;
+    font-size: 14px;
+    width: 50%;
+}
+.section-head .right
+{
+    float:left;
+    text-align: right;
+    width: 50%;
+    font-size: 14px;
+}
+.container-image-box
+{
+    padding: 25px !important;
+}
+.container-image-box .container-image
+{
+   border: 1px solid darkgrey;
+    height: 245px;
+}
+.notes-box
+{
+    min-height: 400px;
+}
+.summary-box
+{
+    width: 19.8%;
+    display: inline;
+    background: #91c84d !important;
+    color: white;
+    float:left;
+    text-align: center;
+    padding: 10px 0;
+    margin-right: 2px;
+}
+.summary-box .summary-title,.summary-value
+{
+    font-size: 12px;
+}
+.summary-box .summary-value
+{
+    font-weight: bold;
+}
+
+.button-box
+{
+    background: white;
+    border: 1px solid #91c84d !important;
+    padding: 2px;
+    font-size: 10px;
+    font-weight: normal;
+    display: inline-block;
+    float: right;
+}
+.gray-bottom-border
+{
+    border-bottom: 1px solid rgba(95, 90, 90, 0.22);
+}
+
+.page-break-before	{ display: block; page-break-before: always; }
+.information-row .box .box-row .value-v
+{
+    font-size: 12px;
+}
+.information-row .box .box-row .td-title
+{
+    font-size: 12px;
+}
+.information-row .box .box-row .reg
+{
+    font-size: 10px !important;
+}
